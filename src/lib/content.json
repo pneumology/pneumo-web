@@ -1,0 +1,32 @@
+{
+    "faq": [
+        {
+            "question": "Welche Standorte gibt es?",
+            "answer": "Wir haben eine Praxis in der Stadt Erlangen, Nägelbachstr 49c mit Tiefgarage und eine Praxis in der Stadt Höchstadt an der Aisch, ebenfalls mit Tiefgarage, aber auch mit Parkplatz. Beide Standort sind gleich ausgestattet und miteinander verknüpft, so dass Sie die Standorte im Laufe der Behandlung problemlos wechseln können. Für Untersuchungen im Schlaflabor Tennenlohe sind Voruntersuchungen und Vorgespräche in Erlangen oder Höchstadt erforderlich."
+        },
+        {
+            "question": "Kann mein Hausarzt einen Termin buchen?",
+            "answer": "Am einfachsten ist es wenn Sie selbst über unsere Homepage online oder Telefonisch einen Termin buchen oder wenn Sie in der Nähe der Praxis sind vorbeischauen um einen Termin zu vereinbaren. In Notfällen kann Ihr Hausarzt einen Termin für Sie vereinbaren."
+        },
+        {
+            "question": "Kann ich ohne Termin vorbeikommen?",
+            "answer": "Wir bemühen uns die Wartezeiten für die Patienten möglichst kurz zu halten. Dies geht nur mit Terminen. In besonderen Notfällen kann Ihr Hausarzt bei uns kurzfristig einen Notfalltermin vereinbaren. Wenn Sie akute Beschwerden haben, kontaktieren Sie uns, wenn möglich, zunächst telefonisch."
+        },
+        {
+            "question": "Wie läuft der erste Termin ab?",
+            "answer": "Bitte vergewissern Sie sich vorher, ob Sie sich in der Praxis in Erlangen oder Höchstadt angemeldet haben. Bringen Sie zu jedem Termin ihre Versichertenkarte und, wenn vorhanden, einen Überweisungsschein mit. Sollten Sie Medikamente einnehmen, ist eine Auflistung ihrer aktuellen Medikation sehr hilfreich."
+        },
+        {
+            "question": "Wie kann ich online einen Termin buchen?",
+            "answer": "Sie können auf unserer Homepage einen Termin buchen. Bitte vergessen nicht, ihre Telefonnummer und/oder E-Mail anzugeben, falls Rückfragen auftreten oder Terminverschiebungen erforderlich sein sollten."
+        },
+        {
+            "question": "Verfügt die Praxis über Weiterbildungs-Befugnisse?",
+            "answer": "Ja, der Zeitraum für Pneumologie und innere Medizin beträgt 18 Monate. Wir freuen uns über ihre Kontakt-Aufnahme."
+        },
+        {
+            "question": "Wie kann ich (m)einen Termin absagen?",
+            "answer": "So können Sie ihren Termin absagen, wenn Sie ihn nicht wahrnehmen können: - Bei Online-Buchungen: Über den E-Mail Link aus ihrer Terminbestätigung. - Per Telefon oder Fax bzw. auf dem Postweg."
+        }
+    ]
+}
