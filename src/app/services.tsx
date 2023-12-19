@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const Services = () => {
     const Item = (id: number) => {
-        return <div className="col sm:max-w-[250px]" key={id}>
+        return <div className="w-full col sm:max-w-[250px]" key={id}>
             <div className="w-full h-40 sm:w-[250px] sm:h-[85px] relative mb-2.5">
                 <Image src={serviceData[id].image} alt={serviceData[id].title} className="object-cover rounded" fill unoptimized />
             </div>
