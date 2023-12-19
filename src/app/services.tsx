@@ -20,7 +20,6 @@ const Services = () => {
         </div>
     }
 
-
     return (
         <div className="p-5 flex justify-center w-full pt-20" id="leistungen">
             <div className="w-full max-w-7xl">
