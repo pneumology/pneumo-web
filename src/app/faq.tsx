@@ -3,7 +3,7 @@ import cn from 'classnames';
 
 const FAQ = () => {
     return (
-        <div className="relative">
+        <div className="relative" id="faq">
             <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="846" viewBox="0 0 1920 846" fill="none" className='absolute bottom-[-80px] opacity-75 w-full'>
                 <g filter="url(#filter0_f_2200_2473)">
                     <path d="M0 134L1920 377.872V712L1.47398e-06 712L0 134Z" fill="url(#paint0_linear_2200_2473)" fillOpacity="0.75" />

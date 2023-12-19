@@ -29,19 +29,19 @@ const MobileNavbarButton = () => {
                     <Link href="#höchstadt" onClick={() => setOpen(false)}>Praxis Höchstadt</Link>
                     <Link href="#tennenlohe" onClick={() => setOpen(false)}>Schlaflabor Tennenlohe</Link>
                 </div>
-                <Link href="/" onClick={() => setOpen(false)}>Leistungen</Link>
+                <Link href="#leistungen" onClick={() => setOpen(false)}>Leistungen</Link>
                 <div className="flex flex-col pl-7 gap-2.5">
-                    <Link href="/" onClick={() => setOpen(false)}>Lungenfunktion</Link>
-                    <Link href="/" onClick={() => setOpen(false)}>Laboruntersuchung</Link>
-                    <Link href="/" onClick={() => setOpen(false)}>Allergien</Link>
-                    <Link href="/" onClick={() => setOpen(false)}>Schlaflabor</Link>
-                    <Link href="/" onClick={() => setOpen(false)}>DMP Programm</Link>
-                    <Link href="/" onClick={() => setOpen(false)}>Röntgen</Link>
-                    <Link href="/" onClick={() => setOpen(false)}>Weitere Leistungen</Link>
+                    <Link href="#lungenfunktion" onClick={() => setOpen(false)}>Lungenfunktion</Link>
+                    <Link href="#laboruntersuchungen" onClick={() => setOpen(false)}>Laboruntersuchung</Link>
+                    <Link href="#allergien" onClick={() => setOpen(false)}>Allergien</Link>
+                    <Link href="#schlaflabor" onClick={() => setOpen(false)}>Schlaflabor</Link>
+                    <Link href="#dmp" onClick={() => setOpen(false)}>DMP Programm</Link>
+                    <Link href="#röntgen" onClick={() => setOpen(false)}>Röntgen</Link>
+                    <Link href="#weitere" onClick={() => setOpen(false)}>Weitere Leistungen</Link>
                 </div>
-                <Link href="/" onClick={() => setOpen(false)}>Termin-Buchung</Link>
-                <Link href="/" onClick={() => setOpen(false)}>FAQ</Link>
-                <Link href="/" onClick={() => setOpen(false)}>Kontakt</Link>
+                <Link href="#standorte" onClick={() => setOpen(false)}>Termin-Buchung</Link>
+                <Link href="#faq" onClick={() => setOpen(false)}>FAQ</Link>
+                <Link href="#kontakt" onClick={() => setOpen(false)}>Kontakt</Link>
             </div>
         </div>
     </>

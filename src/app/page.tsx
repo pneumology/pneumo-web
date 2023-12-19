@@ -15,12 +15,13 @@ export default function Home() {
           <Intro />
         </div>
       </div>
+
       <Location />
       <Team />
       <Services />
       <FAQ />
-
       <Footer />
+
     </main>
   )
 }

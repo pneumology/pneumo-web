@@ -57,7 +57,7 @@ const Praxis: FC<Praxis> = ({
             </div>
         </div>
         <div className="hidden md:flex gap-2.5 mt-2.5">
-            {praxisData[selected].link && <Link href={praxisData[selected].link || ''}>
+            {praxisData[selected].link && <Link href={praxisData[selected].link || ''} target="_blank">
                 <Button className="px-10">Termin Buchen</Button>
             </Link>}
             <Link href={praxisData[selected].route} target="_blank" className="">

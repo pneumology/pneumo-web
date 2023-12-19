@@ -9,7 +9,7 @@ interface Footer {
 
 const Footer: FC<Footer> = ({ mini }) => {
     if (mini)
-        return <div className="bg-black z-20 relative">
+        return <div className="bg-black z-20 relative" id="kontakt">
             <div className="p-5 flex justify-center w-full py-5">
                 <div className="w-full max-w-7xl">
                     <div className="flex flex-wrap justify-between items-end">
@@ -24,7 +24,7 @@ const Footer: FC<Footer> = ({ mini }) => {
             </div>
         </div>
 
-    return <div className="bg-black z-20 relative">
+    return <div className="bg-black z-20 relative" id="kontakt">
         <div className="p-5 flex justify-center w-full py-12">
             <div className="w-full max-w-7xl">
                 <Logo dark />
