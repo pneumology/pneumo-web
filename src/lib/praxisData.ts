@@ -8,6 +8,7 @@ export interface PraxisData {
   phone: string;
   fax?: string;
   openingTimes: { [key: string]: string }[];
+  link?: string;
 }
 
 export const praxisData: PraxisData[] = [
@@ -24,6 +25,7 @@ export const praxisData: PraxisData[] = [
       { "Mo, Di, Do": "08:00 - 16:30 Uhr" },
       { "Mi, Fr": "08:00 - 12:00 Uhr" },
     ],
+    link: "https://webtermin.medatixx.de/#/400c6947-8959-4b6e-a35b-3acd78da756a",
   },
   {
     name: "Praxis Häöchstadt",
@@ -38,6 +40,7 @@ export const praxisData: PraxisData[] = [
       { "Mo, Di, Do": "08:00 - 16:30 Uhr" },
       { "Mi, Fr": "08:00 - 12:00 Uhr" },
     ],
+    link: "https://webtermin.medatixx.de/#/5d5aec89-1c59-4ad8-a105-f2a94dd54e51",
   },
   {
     name: "Schlaflabor Tennenlohe",
@@ -48,8 +51,6 @@ export const praxisData: PraxisData[] = [
     plzCity: "91058 Tennenlohe",
     phone: "09131 - 614 - 6330",
     fax: "09131 - 7625 - 65",
-    openingTimes: [
-      { "nach Vereinbarung" : ""},
-    ],
+    openingTimes: [{ "nach Vereinbarung": "" }],
   },
 ];
