@@ -16,6 +16,7 @@ const Team = () => {
                                         <Image src={team.image} alt={team.name} fill className="object-cover rounded-full" unoptimized />
                                     </div>
                                 </div>
+
                                 <p className="font-medium text-2xl mt-5 mb-2.5">{team.name}</p>
                                 <p>Internist{team.sex ? 'in' : ''} mit den Schwerpunkten:</p>
                                 <ul className="list-disc list-inside">
