@@ -47,7 +47,7 @@ const Praxis: FC<Praxis> = ({
                         <Button>Termin Buchen</Button>
                     </Link>}
 
-                    <Link href={""} className="w-full">
+                    <Link href={praxisData[selected].route} target="_blank" className="w-full">
                         <Button type={ButtonType.Secondary}>Anfahrtsroute</Button>
                     </Link>
                 </div>
@@ -60,7 +60,7 @@ const Praxis: FC<Praxis> = ({
             {praxisData[selected].link && <Link href={praxisData[selected].link || ''}>
                 <Button className="px-10">Termin Buchen</Button>
             </Link>}
-            <Link href={""} className="">
+            <Link href={praxisData[selected].route} target="_blank" className="">
                 <Button type={ButtonType.Secondary} className="px-10">Anfahrtsroute</Button>
             </Link>
         </div>
