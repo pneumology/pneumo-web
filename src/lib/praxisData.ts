@@ -31,7 +31,7 @@ export const praxisData: PraxisData[] = [
   },
   {
     name: "Praxis Höchstadt",
-    image: "/img/weitere_Leistungen.webp",
+    image: "/img/weitere_leistungen.webp",
     locationImg: "/img/hoechstadt.webp",
     drs: ["Dr. Schaubschläger", "Dr. Berg", "Dr. Pour Schahin"],
     address: "Am Vogelseck 1",
