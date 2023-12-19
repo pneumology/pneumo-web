@@ -16,7 +16,7 @@ export const praxisData: PraxisData[] = [
   {
     name: "Praxis Erlangen",
     image: "/img/praxis.webp",
-    locationImg: "/img/location.webp",
+    locationImg: "/img/erlangen.webp",
     drs: ["Dr. Schaubschläger", "Dr. Berg", "Dr. Pour Schahin"],
     address: "Nägelsbachstraße 49 C",
     plzCity: "91052 Erlangen",
@@ -32,7 +32,7 @@ export const praxisData: PraxisData[] = [
   {
     name: "Praxis Höchstadt",
     image: "/img/weitere_Leistungen.webp",
-    locationImg: "/img/location.webp",
+    locationImg: "/img/hoechstadt.webp",
     drs: ["Dr. Schaubschläger", "Dr. Berg", "Dr. Pour Schahin"],
     address: "Am Vogelseck 1",
     plzCity: "91315 Höchstadt/Aisch",
@@ -48,7 +48,7 @@ export const praxisData: PraxisData[] = [
   {
     name: "Schlaflabor Tennenlohe",
     image: "/img/schlaflabor.webp",
-    locationImg: "/img/location.webp",
+    locationImg: "/img/tennenlohe.webp",
     drs: ["Dr. Schaubschläger", "Dr. Berg", "Dr. Pour Schahin"],
     address: "Am Weichselgarten 8 (EG, Technische Fakultät)",
     plzCity: "91058 Tennenlohe",
