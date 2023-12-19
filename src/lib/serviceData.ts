@@ -52,7 +52,7 @@ export const serviceData: PraxisData[] = [
     title: "Weitere Leistungen",
     image: "/img/weitere_Leistungen.webp",
     description:
-      "<ul><li>Tauchtauglichkeitsuntersuch.</li><li>Ausstellen von Tauchfähigkeitsbes.</li><li>Impfungen</li><li>Ultraschall der Lunge</li><li>Pleurapunktionen</li></ul>",
+      "<ul><li>Tauchtauglichkeitsuntersuchung</li><li>Ausstellen von Tauchfähigkeitsbescheinigungen</li><li>Impfungen</li><li>Ultraschall der Lunge</li><li>Pleurapunktionen</li></ul>",
     more: "",
   },
 ];
