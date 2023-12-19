@@ -25,7 +25,7 @@ const Services = () => {
         <div className="p-5 flex justify-center w-full pt-20" id="leistungen">
             <div className="w-full max-w-7xl">
                 <h1 className='font-bold text-2xl mb-5'>Unsere Praxis-Leistungen</h1>
-                <div className="flex flex-col items-center sm:grid sm:grid-cols-2 md:grid-cols-3 lg:flex lg:flex-wrap gap-5 lg:flex-row">
+                <div className="flex flex-col sm:grid sm:grid-cols-2 md:grid-cols-3 lg:flex lg:flex-wrap gap-5 lg:flex-row">
 
                     <div className="lg:w-full lg:flex lg:gap-52 lg:justify-center contents">
                         {Item(0)}
@@ -57,7 +57,7 @@ const Services = () => {
                         {Item(5)}
                     </div>
 
-                    <div className="lg:w-full lg:flex justify-center contents">
+                    <div className="w-full flex lg:justify-center">
                         {Item(6)}
                     </div>
 

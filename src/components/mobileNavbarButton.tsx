@@ -20,28 +20,28 @@ const MobileNavbarButton = () => {
                 </svg>
             }
         </div>
-        <div className={cn('flex-col absolute bg-white font-bold w-full h-screen overflow-scroll left-0 top-[81px] items-center z-50',
+        <div className={cn('flex-col absolute bg-white w-full h-screen overflow-scroll left-0 top-[81px] items-center z-50',
             open ? 'flex' : 'hidden')}>
             <div className="flex flex-col gap-2.5 p-5">
-                <Link href="#standorte" onClick={() => setOpen(false)}>Standorte & Öffnungszeiten</Link>
-                <div className="flex flex-col pl-7 gap-2.5">
-                    <Link href="#erlangen" onClick={() => setOpen(false)}>Praxis Erlangen</Link>
-                    <Link href="#höchstadt" onClick={() => setOpen(false)}>Praxis Höchstadt</Link>
-                    <Link href="#tennenlohe" onClick={() => setOpen(false)}>Schlaflabor Tennenlohe</Link>
+                <Link href="#standorte" className="font-bold" onClick={() => setOpen(false)}>Standorte & Öffnungszeiten</Link>
+                <div className="flex flex-col pl-7 gap-1.5">
+                    <Link href="#standorte" onClick={() => setOpen(false)}>Praxis Erlangen</Link>
+                    <Link href="#standorte" onClick={() => setOpen(false)}>Praxis Höchstadt</Link>
+                    <Link href="#standorte" onClick={() => setOpen(false)}>Schlaflabor Tennenlohe</Link>
                 </div>
-                <Link href="#leistungen" onClick={() => setOpen(false)}>Leistungen</Link>
-                <div className="flex flex-col pl-7 gap-2.5">
-                    <Link href="#lungenfunktion" onClick={() => setOpen(false)}>Lungenfunktion</Link>
-                    <Link href="#laboruntersuchungen" onClick={() => setOpen(false)}>Laboruntersuchung</Link>
-                    <Link href="#allergien" onClick={() => setOpen(false)}>Allergien</Link>
-                    <Link href="#schlaflabor" onClick={() => setOpen(false)}>Schlaflabor</Link>
-                    <Link href="#dmp" onClick={() => setOpen(false)}>DMP Programm</Link>
+                <Link href="#leistungen" className="font-bold" onClick={() => setOpen(false)}>Leistungen</Link>
+                <div className="flex flex-col pl-7 gap-1.5">
+                    <Link href="#leistungen" onClick={() => setOpen(false)}>Lungenfunktion</Link>
+                    <Link href="#leistungen" onClick={() => setOpen(false)}>Laboruntersuchung</Link>
+                    <Link href="#leistungen" onClick={() => setOpen(false)}>Allergien</Link>
+                    <Link href="#leistungen" onClick={() => setOpen(false)}>Schlaflabor</Link>
+                    <Link href="#leistungen" onClick={() => setOpen(false)}>DMP Programm</Link>
                     <Link href="#röntgen" onClick={() => setOpen(false)}>Röntgen</Link>
-                    <Link href="#weitere" onClick={() => setOpen(false)}>Weitere Leistungen</Link>
+                    <Link href="#leistungen" onClick={() => setOpen(false)}>Weitere Leistungen</Link>
                 </div>
-                <Link href="#standorte" onClick={() => setOpen(false)}>Termin-Buchung</Link>
-                <Link href="#faq" onClick={() => setOpen(false)}>FAQ</Link>
-                <Link href="#kontakt" onClick={() => setOpen(false)}>Kontakt</Link>
+                <Link href="#standorte" className="font-bold" onClick={() => setOpen(false)}>Termin-Buchung</Link>
+                <Link href="#faq" className="font-bold" onClick={() => setOpen(false)}>FAQ</Link>
+                <Link href="#kontakt" className="font-bold" onClick={() => setOpen(false)}>Kontakt</Link>
             </div>
         </div>
     </>
