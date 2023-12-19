@@ -1,11 +1,11 @@
+'use client'
 import More from "@/components/more";
 import { serviceData } from "@/lib/serviceData";
 import Image from "next/image";
 
 const Services = () => {
-
     const Item = (id: number) => {
-        return <div className="col sm:max-w-[250px] z-10" key={id}>
+        return <div className="col sm:max-w-[250px]" key={id}>
             <div className="w-full h-40 sm:w-[250px] sm:h-[85px] relative mb-2.5">
                 <Image src={serviceData[id].image} alt={serviceData[id].title} className="object-cover rounded" fill unoptimized />
             </div>
@@ -20,6 +20,7 @@ const Services = () => {
         </div>
     }
 
+
     return (
         <div className="p-5 flex justify-center w-full pt-20" id="leistungen">
             <div className="w-full max-w-7xl">
@@ -33,7 +34,7 @@ const Services = () => {
 
                     <div className="lg:w-full lg:flex lg:justify-between lg:items-center contents">
                         {Item(2)}
-                        <div className="hidden lg:block w-10 h-10 relative">
+                        <div className="hidden lg:block w-10 h-10 relative z-0">
                             <svg
                                 width="585"
                                 height="575"
@@ -49,6 +50,7 @@ const Services = () => {
                         </div>
                         {Item(3)}
                     </div>
+
 
                     <div className="lg:w-full lg:flex lg:gap-96 justify-center contents">
                         {Item(4)}

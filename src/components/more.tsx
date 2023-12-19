@@ -11,11 +11,15 @@ interface More {
 const More: FC<More> = ({ title, content }) => {
     const [show, setShow] = useState(false);
 
+    /* return <div className="bg-blue fixed w-full h-full top-0 left-0 z-50">
+        hilfe
+    </div> */
+
     return (
-        <>
-            <p className="cursor-pointer text-sm underline mt-5" onClick={() => setShow(!show)}>Mehr anzeigen</p>
+        <div>
+            <p className="cursor-pointer text-sm underline mt-5 z-10 relative" onClick={() => setShow(!show)}>Mehr anzeigen</p>
             <div className={cn(
-                show ? 'block' : 'hidden',
+                show ? '' : 'hidden',
             )}>
                 <div className="fixed z-50 top-0 left-0 w-full h-full backdrop-blur-sm bg-black/10 flex justify-center items-center p-10">
                     <div className="bg-white rounded max-w-md max-h-full relative">
@@ -34,7 +38,7 @@ const More: FC<More> = ({ title, content }) => {
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     );
 }
 
