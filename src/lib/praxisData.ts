@@ -31,7 +31,7 @@ export const praxisData: PraxisData[] = [
   },
   {
     name: "Praxis Höchstadt",
-    image: "/img/praxis.webp",
+    image: "/img/weitere_Leistungen.webp",
     locationImg: "/img/location.webp",
     drs: ["Dr. Schaubschläger", "Dr. Berg", "Dr. Pour Schahin"],
     address: "Am Vogelseck 1",
@@ -47,7 +47,7 @@ export const praxisData: PraxisData[] = [
   },
   {
     name: "Schlaflabor Tennenlohe",
-    image: "/img/praxis.webp",
+    image: "/img/schlaflabor.webp",
     locationImg: "/img/location.webp",
     drs: ["Dr. Schaubschläger", "Dr. Berg", "Dr. Pour Schahin"],
     address: "Am Weichselgarten 8 (EG, Technische Fakultät)",
