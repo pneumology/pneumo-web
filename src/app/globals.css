@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* List style for prose stuff */
+.prose ul {
+    list-style-type: disc;
+    list-style-position: inside;
+}

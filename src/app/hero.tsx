@@ -10,7 +10,8 @@ const Hero = () => {
             src="/img/team.webp"
             alt="Team image"
             width={1800}
-            height={487}
+            height={520}
+            unoptimized
         />
     </div>
 }

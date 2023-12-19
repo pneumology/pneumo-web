@@ -13,7 +13,7 @@ const Team = () => {
                             <div className="max-w-xs">
                                 <div className="w-full flex justify-center">
                                     <div className="relative w-48 h-48" >
-                                        <Image src={team.image} alt={team.name} fill className="object-cover rounded-full" />
+                                        <Image src={team.image} alt={team.name} fill className="object-cover rounded-full" unoptimized />
                                     </div>
                                 </div>
                                 <p className="font-medium text-2xl mt-5 mb-2.5">{team.name}</p>
