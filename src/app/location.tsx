@@ -26,7 +26,7 @@ const Location = () => {
         </svg>
         <div className="p-5 flex justify-center w-full pt-20">
             <div className="w-full max-w-7xl">
-                <div className="my-20 flex justify-between gap-20 z-10 relative">
+                <div className="my-20 flex flex-col md:flex-row justify-between gap-10 md:gap-0 z-10 relative">
                     <Selector selected={selected} setSelected={setSelected} />
                     <Praxis selected={selected} />
                 </div>
