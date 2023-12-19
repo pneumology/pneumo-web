@@ -50,7 +50,7 @@ export const serviceData: PraxisData[] = [
   },
   {
     title: "Weitere Leistungen",
-    image: "/img/weitere_Leistungen.webp",
+    image: "/img/weitere_leistungen.webp",
     description:
       "<ul><li>Tauchtauglichkeitsuntersuchung</li><li>Ausstellen von Tauchfähigkeitsbescheinigungen</li><li>Impfungen</li><li>Ultraschall der Lunge</li><li>Pleurapunktionen</li></ul>",
     more: "Kommen Sie gern auf uns zu und sprechen Sie uns bezügliche besonderer Leistungen und Prüfungen an.",
