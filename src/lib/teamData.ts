@@ -8,7 +8,7 @@ export interface TeamData {
 export const teamData: TeamData[] = [
   {
     image: "/img/schaubenschlaeger.webp",
-    name: "Dr. Med Schaubenschläger",
+    name: "Dr. Med. Schaubschläger",
     sex: 0,
     schwerpunkte: [
       "Lungen- und Bronchialheilkunde",

@@ -49,8 +49,7 @@ export const praxisData: PraxisData[] = [
     phone: "09131 - 614 - 6330",
     fax: "09131 - 7625 - 65",
     openingTimes: [
-      { "Mo, Di, Do": "08:00 - 16:30 Uhr" },
-      { "Mi, Fr": "08:00 - 12:00 Uhr" },
+      { "nach Vereinbarung" : ""},
     ],
   },
 ];
