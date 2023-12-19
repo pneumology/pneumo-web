@@ -11,11 +11,11 @@ const Navbar = () => {
                 </Link>
 
                 <div className="lg:flex gap-4 font-bold hidden">
-                    <Link className="hover:underline" href="#standorte">Standorte & Öffnungszeiten</Link>
-                    <Link className="hover:underline" href="#leistungen">Leistungen</Link>
-                    <Link className="hover:underline" href="#standorte">Termin-Buchung</Link>
-                    <Link className="hover:underline" href="#faq">FAQ</Link>
-                    <Link className="hover:underline" href="#kontakt">Kontakt</Link>
+                    <Link className="hover:underline" href="/#standorte">Standorte & Öffnungszeiten</Link>
+                    <Link className="hover:underline" href="/#leistungen">Leistungen</Link>
+                    <Link className="hover:underline" href="/#standorte">Termin-Buchung</Link>
+                    <Link className="hover:underline" href="/#faq">FAQ</Link>
+                    <Link className="hover:underline" href="/#kontakt">Kontakt</Link>
                 </div>
 
                 <div className="lg:hidden">
