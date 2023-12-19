@@ -6,12 +6,6 @@ import { useEffect, useState } from "react";
 const Location = () => {
     const [selected, setSelected] = useState(0)
 
-    useEffect(() => {
-        if (window.location.hash == '#erlangen') return setSelected(0)
-        if (window.location.hash == '#höchstadt') return setSelected(1)
-        if (window.location.hash == '#tennenlohe') return setSelected(2)
-    }, [window?.location?.hash])
-
     return <div className="relative" id="standorte">
         <svg xmlns="http://www.w3.org/2000/svg" width="1824" height="1014" viewBox="0 0 1824 1014" fill="none" className="absolute top-[-50px] z-10 w-full">
             <g filter="url(#filter0_f_2193_2473)">
