@@ -51,10 +51,10 @@ const Impressum = () => {
                 <p>Dr. med. W. Schaubschläger, Dr. med. P. Berg und Dr. med. S. Pour Schahin</p>
                 <br />
                 <h2 className="font-medium">Ärztekammer:</h2>
-                <p>Bayerische Landesärztekammer (www.blaek.de)</p>
+                <p>Bayerische Landesärztekammer <Link className="underline" href="https://www.blaek.de"target="_blank">www.blaek.de</Link></p>
                 <br />
                 <h2 className="font-medium">Kassenärztliche Vereinigung:</h2>
-                <p> KV Bayern (www.kvb.de)</p>
+                <p> KV Bayern <Link className="underline" href="https://www.kvb.de" target="_blank">www.kvb.de</Link></p>
                 <br />
                 <h2 className="font-medium">Berufsbezeichnung:</h2>
                 <p>Fachärzte für Innere Medizin und Pneumologie Verliehen durch die Bayrische Landesärztekammer.</p>
@@ -63,7 +63,7 @@ const Impressum = () => {
                 <p>Bayerische Landesärztekammer</p>
                 <br />
                 <h2 className="font-medium">Berufsrechtliche Regelungen:</h2>
-                <p>- Berufsordnung der Landesärztekammer Bayern (PDF)- Heilberufegesetz des Landes Bayern</p>
+                <p>- Berufsordnung der Landesärztekammer Bayern <Link className="underline" href="https://www.blaek.de/kammerrecht/berufsordnung-fuer-die-aerzte-bayerns/berufsordnung-fuer-die-aerzte-bayerns-bekanntmachung-vom-09-januar-2012-i-d-f-der-aenderungsbeschluesse-vom-28-oktober-2018-bayerisches-aerzteblatt-12-2018-s-694"target="_blank">Zur Berufsordnung</Link>, <Link className="underline" href="https://www.gesetze-bayern.de/Content/Document/BayHKaG"target="_blank">Heilberufegesetz des Landes Bayern</Link></p>
                 <br />
                 <h2 className="font-medium">Haftungshinweis</h2>
                 <p>Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Der Anbieter übernimmt auch keine Haftung für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen.</p>
