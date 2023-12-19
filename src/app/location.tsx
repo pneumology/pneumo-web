@@ -1,12 +1,18 @@
 'use client'
 import Praxis from "@/components/praxis";
 import Selector from "@/components/selector";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const Location = () => {
     const [selected, setSelected] = useState(0)
 
-    return <div className="relative">
+    useEffect(() => {
+        if (window.location.hash == '#erlangen') return setSelected(0)
+        if (window.location.hash == '#höchstadt') return setSelected(1)
+        if (window.location.hash == '#tennenlohe') return setSelected(2)
+    }, [window?.location?.hash])
+
+    return <div className="relative" id="standorte">
         <svg xmlns="http://www.w3.org/2000/svg" width="1824" height="1014" viewBox="0 0 1824 1014" fill="none" className="absolute top-[-50px] z-10 w-full">
             <g filter="url(#filter0_f_2193_2473)">
                 <path d="M464.535 134.958L1689.63 614.603L1212.09 879.104L-12.9994 399.46L464.535 134.958Z" fill="url(#paint0_linear_2193_2473)" />
