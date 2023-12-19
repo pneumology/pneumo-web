@@ -1,3 +1,4 @@
+import Notification from '@/components/notification'
 import FAQ from './faq'
 import Footer from './footer'
 import Hero from './hero'
@@ -10,7 +11,7 @@ export default function Home() {
   return (
     <main>
       <div className="p-5 flex justify-center w-full pt-20">
-        <div className="w-full max-w-7xl">
+        <div className="w-full max-w-7xl relative">
           <Hero />
           <Intro />
         </div>

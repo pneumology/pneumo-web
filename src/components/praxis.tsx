@@ -16,11 +16,11 @@ const Praxis: FC<Praxis> = ({
             <div className="w-full md:w-96 flex flex-col gap-2.5">
                 <div className="flex gap-2.5">
                     <div className="w-full md:w-[250px] h-[150px] relative ">
-                        <Image src={praxisData[selected].image} alt="Praxis" fill className="object-cover rounded" />
+                        <Image src={praxisData[selected].image} alt="Praxis" fill className="object-cover rounded" unoptimized />
                     </div>
 
                     <div className="block md:hidden relative w-full ">
-                        <Image src={praxisData[selected].locationImg} alt="Praxis" fill className="object-cover rounded" />
+                        <Image src={praxisData[selected].locationImg} alt="Praxis" fill className="object-cover rounded" unoptimized />
                     </div>
                 </div>
                 <div>
