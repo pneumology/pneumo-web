@@ -23,25 +23,25 @@ const MobileNavbarButton = () => {
         <div className={cn('flex-col absolute bg-white font-bold w-full h-screen overflow-scroll left-0 top-[81px] items-center z-50',
             open ? 'flex' : 'hidden')}>
             <div className="flex flex-col gap-2.5 p-5">
-                <Link href="/">Standorte & Öffnungszeiten</Link>
+                <Link href="#standorte" onClick={() => setOpen(false)}>Standorte & Öffnungszeiten</Link>
                 <div className="flex flex-col pl-7 gap-2.5">
-                    <Link href="/">Praxis Erlangen</Link>
-                    <Link href="/">Praxis Höchstadt</Link>
-                    <Link href="/">Schlaflabor Tennenlohe</Link>
+                    <Link href="#erlangen" onClick={() => setOpen(false)}>Praxis Erlangen</Link>
+                    <Link href="#höchstadt" onClick={() => setOpen(false)}>Praxis Höchstadt</Link>
+                    <Link href="#tennenlohe" onClick={() => setOpen(false)}>Schlaflabor Tennenlohe</Link>
                 </div>
-                <Link href="/">Leistungen</Link>
+                <Link href="/" onClick={() => setOpen(false)}>Leistungen</Link>
                 <div className="flex flex-col pl-7 gap-2.5">
-                    <Link href="/">Lungenfunktion</Link>
-                    <Link href="/">Laboruntersuchung</Link>
-                    <Link href="/">Allergien</Link>
-                    <Link href="/">Schlaflabor</Link>
-                    <Link href="/">DMP Programm</Link>
-                    <Link href="/">Röntgen</Link>
-                    <Link href="/">Weitere Leistungen</Link>
+                    <Link href="/" onClick={() => setOpen(false)}>Lungenfunktion</Link>
+                    <Link href="/" onClick={() => setOpen(false)}>Laboruntersuchung</Link>
+                    <Link href="/" onClick={() => setOpen(false)}>Allergien</Link>
+                    <Link href="/" onClick={() => setOpen(false)}>Schlaflabor</Link>
+                    <Link href="/" onClick={() => setOpen(false)}>DMP Programm</Link>
+                    <Link href="/" onClick={() => setOpen(false)}>Röntgen</Link>
+                    <Link href="/" onClick={() => setOpen(false)}>Weitere Leistungen</Link>
                 </div>
-                <Link href="/">Termin-Buchung</Link>
-                <Link href="/">FAQ</Link>
-                <Link href="/">Kontakt</Link>
+                <Link href="/" onClick={() => setOpen(false)}>Termin-Buchung</Link>
+                <Link href="/" onClick={() => setOpen(false)}>FAQ</Link>
+                <Link href="/" onClick={() => setOpen(false)}>Kontakt</Link>
             </div>
         </div>
     </>

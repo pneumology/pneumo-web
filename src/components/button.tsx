@@ -16,7 +16,7 @@ interface Button {
 
 const Button: FC<Button> = ({ children, type, className, onClick }) => {
     if (type == ButtonType.Secondary)
-        return <button className={cn("bg-white border border-black rounded-[10px] text-black py-3 w-full font-medium", className)} onClick={onClick}>
+        return <button className={cn("border border-black rounded-[10px] text-black py-3 w-full font-medium", className)} onClick={onClick}>
             {children}
         </button>;
 
