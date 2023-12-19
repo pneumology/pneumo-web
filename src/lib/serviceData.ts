@@ -39,7 +39,7 @@ export const serviceData: PraxisData[] = [
     image: "/img/dmp.webp",
     description:
       "Unsere Praxis nimmt am DMP Programm der Krankenkassen teil. Im Rahmen des Programms bieten wir Asthma und COPD-Schulungen an. Sprechen Sie uns bei ihren nächsten Termin gerne darauf an.",
-    more: "",
+    more: "Ein Disease-Management-Programm (DMP) ist ein zentral organisiertes Behandlungsprogramm für chronisch kranke Menschen. Es stützt sich auf die Erkenntnisse der evidenzbasierten Medizin. Unsere Praxis nimmt am DMP Programm der Krankenkassen teil. Im Rahmen des Programms bieten wir Asthma und COPD-Schulungen an. Sprechen Sie uns bei ihren nächsten Termin gerne darauf an.",
   },
   {
     title: "Röntgen",
@@ -52,7 +52,7 @@ export const serviceData: PraxisData[] = [
     title: "Weitere Leistungen",
     image: "/img/weitere_Leistungen.webp",
     description:
-      "<ul><li>Tauchtauglichkeitsuntersuch.</li><li>Ausstellen von Tauchfähigkeitsbes.</li><li>Impfungen</li><li>Ultraschall der Lunge</li><li>Pleurapunktionen</li></ul>",
-    more: "",
+      "<ul><li>Tauchtauglichkeitsuntersuchung</li><li>Ausstellen von Tauchfähigkeitsbescheinigungen</li><li>Impfungen</li><li>Ultraschall der Lunge</li><li>Pleurapunktionen</li></ul>",
+    more: "Kommen Sie gern auf uns zu und sprechen Sie uns bezügliche besonderer Leistungen und Prüfungen an.",
   },
 ];
