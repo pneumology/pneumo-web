@@ -27,7 +27,7 @@ const Impressum = () => {
                 <br />
                 <p>Dr. med. W. Schaubschläger</p>
                 <p>Dr. med. P. Berg</p>
-                <p>Dr. med. und S. Pour Schahin</p>
+                <p>Dr. med. S. Pour Schahin</p>
                 <br />
                 <p>Nägelsbachstraße 49c</p>
                 <p>91052 Erlangen</p>
