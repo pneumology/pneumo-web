@@ -29,6 +29,7 @@ const MobileNavbarButton = () => {
                     <Link href="/#standorte" onClick={() => setOpen(false)}>Praxis Höchstadt</Link>
                     <Link href="/#standorte" onClick={() => setOpen(false)}>Schlaflabor Tennenlohe</Link>
                 </div>
+                <Link href="/#praxis" className="font-bold" onClick={() => setOpen(false)}>Praxis</Link>
                 <Link href="/#leistungen" className="font-bold" onClick={() => setOpen(false)}>Leistungen</Link>
                 <div className="flex flex-col pl-7 gap-1.5">
                     <Link href="/#leistungen" onClick={() => setOpen(false)}>Lungenfunktion</Link>

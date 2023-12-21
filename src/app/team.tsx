@@ -3,7 +3,7 @@ import Image from "next/image"
 
 const Team = () => {
     return <div className="bg-light">
-        <div className="p-5 flex justify-center w-full py-24">
+        <div className="p-5 flex justify-center w-full pt-24 pb-12">
             <div className="w-full max-w-7xl">
                 <h1 className="font-bold text-2xl mb-6">Unsere Praxis</h1>
 
@@ -25,6 +25,9 @@ const Team = () => {
                             </div>
                         </div>
                     })}
+                </div>
+                <div className="relative w-full" >
+                    <Image src="/img/team2.webp" alt="Team" width={1800} height={520} className="object-cover mt-10" unoptimized />
                 </div>
             </div>
         </div>
