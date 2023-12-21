@@ -2,7 +2,7 @@ import { teamData } from "@/lib/teamData"
 import Image from "next/image"
 
 const Team = () => {
-    return <div className="bg-light">
+    return <div className="bg-light" id="praxis">
         <div className="p-5 flex justify-center w-full pt-24 pb-12">
             <div className="w-full max-w-7xl">
                 <h1 className="font-bold text-2xl mb-6">Unsere Praxis</h1>
