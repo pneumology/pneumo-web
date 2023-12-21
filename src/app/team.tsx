@@ -5,7 +5,7 @@ const Team = () => {
     return <div className="bg-light">
         <div className="p-5 flex justify-center w-full py-24">
             <div className="w-full max-w-7xl">
-                <h1 className="font-bold text-2xl mb-6">Unser Team</h1>
+                <h1 className="font-bold text-2xl mb-6">Unsere Praxis</h1>
 
                 <div className="flex lg:flex-row flex-col gap-10 justify-between">
                     {teamData.map((team, index) => {
