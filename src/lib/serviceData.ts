@@ -15,7 +15,7 @@ export const serviceData: PraxisData[] = [
   },
   {
     title: "Laboruntersuchung",
-    image: "/img/labor.webp",
+    image: "/img/untersuchung.webp",
     description:
       "Einige Laboruntersuchungen werden in der Praxis durchgeführt, insbesondere die Suche nach allergischen Antikörpern. ",
     more: "Einige Laboruntersuchungen werden in der Praxis durchgeführt, insbesondere die Suche nach allergischen Antikörpern. Diese Methode eignet sich ebenfalls zum Nachweis einer Allergie, insbesondere dann, wenn ein Hauttest nicht möglich ist oder zur Ergänzung des Hauttestes. Im Labor können des Weiteren der Sauerstoffgehalt und Kohlensäuregehalt sowie der pH-Wert im Blut gemessen werden. Zum Ausschluss einer Lungenembolie werden ebenfalls spezielle Laboruntersuchungen durchgeführt, deren Ergebnis nach ca. 20 Minuten bereits fertig ist.",
