@@ -25,7 +25,7 @@ export const teamData: TeamData[] = [
   },
   {
     image: "/img/berg.webp",
-    name: "Dr. Med. P. Berg",
+    name: "Dr. Med. Berg",
     sex: 0,
     schwerpunkte: ["Lungen- und Bronchialheilkunde", "Schlafmedizin"],
   },
