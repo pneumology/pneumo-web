@@ -18,7 +18,7 @@ const Team = () => {
                                 </div>
 
                                 <p className="font-medium text-2xl mt-5 mb-2.5">{team.name}</p>
-                                <p>Internist{team.sex ? 'in' : ''} mit den Schwerpunkten:</p>
+                                <p>Facharzt{team.sex ? 'in' : ''} für Innere Medizin, mit den Schwerpunkten:</p>
                                 <ul className="list-disc list-inside">
                                     {team.schwerpunkte.map((schwerpunkt, index) => <li key={index}>{schwerpunkt}</li>)}
                                 </ul>

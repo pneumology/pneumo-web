@@ -8,7 +8,7 @@ export interface TeamData {
 export const teamData: TeamData[] = [
   {
     image: "/img/schaubenschlaeger.webp",
-    name: "Dr. Med. Schaubschläger",
+    name: "Dr. med. Schaubschläger",
     sex: 0,
     schwerpunkte: [
       "Lungen- und Bronchialheilkunde",
@@ -19,13 +19,13 @@ export const teamData: TeamData[] = [
   },
   {
     image: "/img/schahin.webp",
-    name: "Dr. Med. Pour Schahin",
+    name: "Dr. med. Pour Schahin",
     sex: 1,
     schwerpunkte: ["Lungen- und Bronchialheilkunde"],
   },
   {
     image: "/img/berg.webp",
-    name: "Dr. Med. Berg",
+    name: "Dr. med. Berg",
     sex: 0,
     schwerpunkte: ["Lungen- und Bronchialheilkunde", "Schlafmedizin"],
   },
