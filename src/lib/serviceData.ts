@@ -14,11 +14,11 @@ export const serviceData: PraxisData[] = [
     more: "Bei der Lungenfunktionsprüfung werden die verschiedenen Volumina in der Lunge gemessen und auch die Strömungsgeschwindigkeit in der Luft gemessen. Anhand der Werte können Verengungen der Atemwege festgestellt werden oder andere Störungen der Atmung. Bei der Lungenfunktionsprüfung atmen Sie entsprechend den Anweisungen durch einen Filter ein und aus. Für die Funktionsprüfung ist auch ein sehr schneller Atemstoß erforderlich. Die Lungenfunktionsprüfung ist nicht schmerzhaft, Sie sind unter ständiger Aufsicht der Mitarbeiterin.",
   },
   {
-    title: "Laboruntersuchung",
+    title: "Laboruntersuchungen",
     image: "/img/untersuchung.webp",
     description:
-      "Einige Laboruntersuchungen werden in der Praxis durchgeführt, insbesondere die Suche nach allergischen Antikörpern. ",
-    more: "Einige Laboruntersuchungen werden in der Praxis durchgeführt, insbesondere die Suche nach allergischen Antikörpern. Diese Methode eignet sich ebenfalls zum Nachweis einer Allergie, insbesondere dann, wenn ein Hauttest nicht möglich ist oder zur Ergänzung des Hauttestes. Im Labor können des Weiteren der Sauerstoffgehalt und Kohlensäuregehalt sowie der pH-Wert im Blut gemessen werden. Zum Ausschluss einer Lungenembolie werden ebenfalls spezielle Laboruntersuchungen durchgeführt, deren Ergebnis nach ca. 20 Minuten bereits fertig ist.",
+      "Einige Laboruntersuchungen werden direkt in der Praxis durchgeführt, insbesondere die Suche nach spezifischen Antikörpern bei Allergien. ",
+    more: "Einige Laboruntersuchungen werden direkt in der Praxis durchgeführt, insbesondere die Suche nach spezifischen Antikörpern bei Allergien. Diese Methode eignet sich ebenfalls zum Nachweis einer Allergie, insbesondere dann, wenn ein Hauttest nicht möglich ist oder der Hauttest ergänzt werden muss. Im Labor können des Weiteren der Sauerstoffgehalt und Kohlensäuregehalt sowie der pH-Wert im Blut gemessen werden. Zum Ausschluss einer Lungenembolie werden ebenfalls spezielle Laboruntersuchungen durchgeführt, deren Ergebnis nach ca. 20 Minuten bereits vorliegt.",
   },
   {
     title: "Allergien",
@@ -38,8 +38,8 @@ export const serviceData: PraxisData[] = [
     title: "DMP Programm",
     image: "/img/dmp.webp",
     description:
-      "Unsere Praxis nimmt am DMP Programm der Krankenkassen teil. Im Rahmen des Programms bieten wir Asthma und COPD-Schulungen an. Sprechen Sie uns bei ihren nächsten Termin gerne darauf an.",
-    more: "Ein Disease-Management-Programm (DMP) ist ein zentral organisiertes Behandlungsprogramm für chronisch kranke Menschen. Es stützt sich auf die Erkenntnisse der evidenzbasierten Medizin. Unsere Praxis nimmt am DMP Programm der Krankenkassen teil. Im Rahmen des Programms bieten wir Asthma und COPD-Schulungen an. Sprechen Sie uns bei ihren nächsten Termin gerne darauf an.",
+      "Unsere Praxis nimmt am DMP Programm der Krankenkassen teil. Im Rahmen des Programms bieten wir Asthma und COPD-Schulungen an. Sprechen Sie uns bei Ihren nächsten Termin gerne darauf an.",
+    more: "Ein Disease-Management-Programm (DMP) ist ein zentral organisiertes Behandlungsprogramm für chronisch kranke Menschen. Es stützt sich auf die Erkenntnisse der evidenzbasierten Medizin. Unsere Praxis nimmt am DMP Programm der Krankenkassen teil. Im Rahmen des Programms bieten wir Asthma und COPD-Schulungen an. Sprechen Sie uns bei Ihren nächsten Termin gerne darauf an.",
   },
   {
     title: "Röntgen",

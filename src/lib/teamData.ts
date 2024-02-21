@@ -11,7 +11,6 @@ export const teamData: TeamData[] = [
     name: "Dr. med. Schaubschläger",
     sex: 0,
     schwerpunkte: [
-      "Lungen- und Bronchialheilkunde",
       "Allergologie",
       "Umweltmedizin",
       "Arbeits- und Betriebsmedizin",
@@ -21,12 +20,12 @@ export const teamData: TeamData[] = [
     image: "/img/schahin.webp",
     name: "Dr. med. Pour Schahin",
     sex: 1,
-    schwerpunkte: ["Lungen- und Bronchialheilkunde"],
+    schwerpunkte: [],
   },
   {
     image: "/img/berg.webp",
     name: "Dr. med. Berg",
     sex: 0,
-    schwerpunkte: ["Lungen- und Bronchialheilkunde", "Schlafmedizin"],
+    schwerpunkte: ["Schlafmedizin"],
   },
 ];

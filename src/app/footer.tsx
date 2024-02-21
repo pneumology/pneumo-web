@@ -48,7 +48,7 @@ const Footer: FC<Footer> = ({ mini }) => {
                     </div>
                 </div>
 
-                <p className="w-full text-grey text-center mt-10">Mit ♥️ entwickelt von <Link className="underline" href="https://cycle.de" target="_blank">cycle.de</Link> </p>
+                <p className="w-full text-grey text-center mt-10">Mit ♥️ entwickelt von cycle.de</p>
             </div>
         </div>
     </div>

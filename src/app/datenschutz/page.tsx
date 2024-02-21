@@ -96,7 +96,7 @@ const Datenschutz = () => {
                 <p>1.Standort:</p>
                 <p>Nägelsbachstr.49c</p>
                 <p>91052 Erlangen</p>
-                <p>Tel.: 09131/762560</p>
+                <p>Tel.: 09131/99 50 500</p>
                 <br />
                 <p>2.Standort:</p>
                 <p>Am Vogelseck 1</p>

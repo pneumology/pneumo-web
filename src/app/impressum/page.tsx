@@ -31,8 +31,8 @@ const Impressum = () => {
                 <br />
                 <p>Nägelsbachstraße 49c</p>
                 <p>91052 Erlangen</p>
-                <p>Telefon: 09131-7625-60</p>
-                <p>Telefax: 09131-7625-65</p>
+                <p>Telefon: 09131-99-50-500</p>
+                <p>Telefax: 09131-99-50-599</p>
                 <p>Internet: <Link className="underline" href="https://www.pneumologie-erlangen.de">www.pneumologie-erlangen.de</Link></p>
                 <br />
                 <p>2. Standort:</p>
