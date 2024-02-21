@@ -11,8 +11,8 @@ const Notification = () => {
         <div className="text-sm">
             <p>Aufgrund der Vielzahl von Anrufen ist die Telefonanlage häufiger überlastet. Deshalb können Sie Termine nun online oder via Telefon vereinbaren.</p>
             <br />
-            <p>Praxis Erlangen:          09131-762560</p>
-            <p>Praxis Höchstadt:       09193-63530</p>
+            <p>Praxis Erlangen:          09131-99 50 500</p>
+            <p>Praxis Höchstadt:       09193-63 530</p>
         </div>
     </div>
 }
