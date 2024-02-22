@@ -30,7 +30,7 @@ export const praxisData: PraxisData[] = [
     route: "https://maps.app.goo.gl/z6zke3vFjJzJgR6w5",
   },
   {
-    name: "Praxis Höchstadt",
+    name: "Praxis Höchstadt/Aisch",
     image: "/img/weiteres.webp",
     locationImg: "/img/hoechstadt.webp",
     drs: ["Dr. med. Schaubschläger", "Dr. med. Berg", "Dr. med. Pour Schahin"],

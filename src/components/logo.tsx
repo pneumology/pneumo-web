@@ -17,7 +17,7 @@ const Logo: FC<Logo> = ({ dark }) => {
 
                     <div className="text-white">
                         <p className="font-bold">Pneumologie</p>
-                        <p className="text-xs">Erlangen & Höchstadt</p>
+                        <p className="text-xs">Erlangen & Höchstadt/Aisch</p>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@ const Logo: FC<Logo> = ({ dark }) => {
                 </svg>
                 <div className="">
                     <p className="font-bold">Pneumologie</p>
-                    <p className="text-xs">Erlangen & Höchstadt</p>
+                    <p className="text-xs">Erlangen & Höchstadt/Aisch</p>
                 </div>
             </div>
         </div>
