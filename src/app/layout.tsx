@@ -11,10 +11,10 @@ import Head from 'next/head';
 <meta property="og:image" content="https://pneumologie-erlangen.de/tcard.png" />
 */
 export const metadata: Metadata = {
-  title: 'Pneumologie Erlangen & Höchstadt',
+  title: 'Pneumologie Erlangen & Höchstadt/Aisch',
   description: 'Lungenfachärztliche Praxis für Lungen- bzw. Atemwegserkrankungen, schlafbezogene Atmungsstörungen und Allergologie in Erlangen und Höchstadt.',
   openGraph: {
-    title: 'Pneumologie Erlangen & Höchstadt',
+    title: 'Pneumologie Erlangen & Höchstadt/Aisch',
     description: 'Lungenfachärztliche Praxis für Lungen- bzw. Atemwegserkrankungen, schlafbezogene Atmungsstörungen und Allergologie in Erlangen und Höchstadt.',
     type: 'website',
     url: 'https://pneumologie-erlangen.de',
