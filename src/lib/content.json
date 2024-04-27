@@ -30,7 +30,7 @@
         }
     ],
     "notification_banner": {
-        "enabled": false,
-        "message": "Liebe Patienten:innen, wir haben vom 24.12.2020 bis 01.01.2021 geschlossen. Wir wünschen Ihnen froheLiebe Patienten:innen, wir haben vom 24.12.2020 bis 01.01.2021 geschlossen. Wir wünschen Ihnen frohe  Weihnachten und einen guten Rutsch ins neue Jahr!"
+        "enabled": true,
+        "message": "Liebe Patienten, am Freitag, den 13.05.2024 ist unsere Praxis geschlossen. Ab dem 13.05.2024 sind wir wieder für Sie da."
     }
 }
