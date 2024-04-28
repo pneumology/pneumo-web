@@ -36,7 +36,9 @@ const Team = () => {
                                                 ? "Fachärztin"
                                                 : "Facharzt"}{" "}
                                             für Innere Medizin, Schwerpunkt
-                                            Pneumologie
+                                            Pneumologie - {team.sex
+                                                ? "Lungenärztin"
+                                                : "Lungenarzt"}{" "}
                                         </p>
                                         <ul className="list-disc list-inside">
                                             {team.schwerpunkte.map(

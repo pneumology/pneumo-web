@@ -33,7 +33,7 @@ const Impressum = () => {
                 <p>91052 Erlangen</p>
                 <p>Telefon: 09131-99-50-500</p>
                 <p>Telefax: 09131-99-50-599</p>
-                <p>Internet: <Link className="underline" href="https://www.pneumologie-erlangen.de">www.pneumologie-erlangen.de</Link></p>
+                <p>Internet: <Link className="underline" href="https://www.lungenarzt-erlangen.com">www.lungenarzt-erlangen.com</Link></p>
                 <br />
                 <p>2. Standort:</p>
                 <p>Am Vogelseck 1</p>

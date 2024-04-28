@@ -24,7 +24,7 @@ const Notification = () => {
             <div className="text-sm">
                 <p>
                     Aufgrund der Vielzahl von Anrufen ist die Telefonanlage
-                    häufiger überlastet. Deshalb können Sie Termine nun online
+                    häufiger überlastet. Deshalb können Sie ihren Lungenarzt-Termin nun online
                     oder via Telefon vereinbaren.
                 </p>
                 <br />

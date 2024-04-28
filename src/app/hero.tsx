@@ -15,7 +15,7 @@ const Hero = () => {
                             Schwerpunktpraxis
                         </h1>
                         <p className="">
-                            Lungenfachärztliche Praxis für{" "}
+                            Lungenärztliche Praxis für{" "}
                             <span className="font-semibold">Lungen</span>- bzw.{" "}
                             <span className="font-semibold">
                                 Atemwegserkrankungen
