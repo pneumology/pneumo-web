@@ -5,7 +5,7 @@ import { GeistSans } from "geist/font/sans";
 import Head from "next/head";
 
 /*
-<meta property="og:title" content="Pneumologie Erlangen & Höchstadt" />
+<meta property="og:title" content="Lungenarzt Erlangen & Höchstadt" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="Lungenfachärztliche Praxis für Lungen- bzw. Atemwegserkrankungen, schlafbezogene Atmungsstörungen und Allergologie in Erlangen und Höchstadt." />
 <meta property="og:image" content="https://pneumologie-erlangen.de/tcard.png" />
