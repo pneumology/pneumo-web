@@ -56,7 +56,7 @@ const Team = () => {
                     </div>
                     <div className="relative w-full">
                         <Image
-                            src="/img/team7.webp"
+                            src="/img/team4.webp"
                             alt="Team"
                             width={1800}
                             height={520}
