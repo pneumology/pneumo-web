@@ -30,7 +30,7 @@
         }
     ],
     "notification_banner": {
-        "enabled": true,
+        "enabled": false,
         "message": "Liebe Patienten, am Freitag, den 31.05.2024 ist unsere Praxis geschlossen. Ab dem 03.06.2024 sind wir wieder für Sie da."
     }
 }
