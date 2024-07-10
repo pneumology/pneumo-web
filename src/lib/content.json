@@ -30,7 +30,7 @@
         }
     ],
     "notification_banner": {
-        "enabled": true,
+        "enabled": false,
         "message": "Dr. S. Pour Schahin: «Liebe Patientinnen und Patienten, Aufgrund des Todes meiner Mutter nach vorausgegangener akuter schwerer Erkrankung konnte ich Sie nicht in gewohnter sorgfältiger Weise behandeln. Es kam in den letzten Wochen hierdurch auch zu meiner unvorhergesehenen Abwesenheit in der Praxis. Ich bedauere die Ihnen hierdurch entstandenen Unannehmlichkeiten sehr. Ab nächster Woche bin ich jedoch in gewohnter Weise für Sie da.»"
     }
 }
