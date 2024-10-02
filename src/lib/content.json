@@ -30,7 +30,7 @@
         }
     ],
     "notification_banner": {
-        "enabled": false,
+        "enabled": true,
         "message": "Sehr geehrte Patienten, unsere Praxen sind am Freitag, den 27.09.24 sowie Freitag, den 04.10.2024 geschlossen."
     }
 }
