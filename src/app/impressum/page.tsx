@@ -47,7 +47,7 @@ const Impressum = () => {
                 <p>Telefon: 09131-614 63 30</p>
                 <p>Telefax: 09131-614 63 31</p>
                 <br />
-                <h2 className="font-medium">Inhaltlich Verantwortlich gemäß § 6 MDStV:</h2>
+                <h2 className="font-medium">Inhaltlich Verantwortlich:</h2>
                 <p>Dr. med. W. Schaubschläger, Dr. med. P. Berg und Dr. med. S. Pour Schahin</p>
                 <br />
                 <h2 className="font-medium">Ärztekammer:</h2>
