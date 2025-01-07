@@ -30,7 +30,7 @@
         }
     ],
     "notification_banner": {
-        "enabled": true,
+        "enabled": false,
         "message": "Sehr geehrte Patienten, am 23.12.24 sowie am 27.12.24 ist die Praxis in Erlangen von 07:30 - 13:00 Uhr für Sie geöffnet. Am 02.01.25 sowie am 03.01.25 ist die Praxis ebenfalls von 07:30-13:00 Uhr geöffnet. Ab dem 07.01.25 sind wir wieder zu den gewohnten Öffnungszeiten für Sie da. Der Standort in Höchstadt ist von 23.12.24 bis einschließlich 06.01.25 geschlossen."
     }
 }
