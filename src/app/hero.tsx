@@ -33,7 +33,7 @@ const Hero = () => {
                     <Notification />
                 </div>
                 <Image
-                    src="/img/team3.webp"
+                    src="/img/team11.webp"
                     alt="Team image"
                     width={1800}
                     height={520}
