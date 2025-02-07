@@ -81,7 +81,7 @@ const Praxis: FC<Praxis> = ({ selected }) => {
                 </p>
 
                 <p className="my-2.5 text-sm">
-                  Eine Terminvergabe ist derzeit nur im Rahmen eines{" "}
+                  Eine Terminvergabe ist derzeit nur telefonisch oder im Rahmen eines{" "}
                   <b>Hausarztvermittlungsfalls</b> möglich.{" "}
                 </p>
 
@@ -121,7 +121,7 @@ const Praxis: FC<Praxis> = ({ selected }) => {
             </p>
 
             <p className="my-2.5 text-sm">
-              Eine Terminvergabe ist derzeit nur im Rahmen eines{" "}
+              Eine Terminvergabe ist derzeit nur telefonisch oder im Rahmen eines{" "}
               <b>Hausarztvermittlungsfalls</b> möglich.{" "}
             </p>
 
