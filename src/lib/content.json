@@ -30,7 +30,7 @@
         }
     ],
     "notification_banner": {
-        "enabled": true,
+        "enabled": false,
         "message": "Sehr geehrte Patienten: Test-Nachricht"
     }
 }
