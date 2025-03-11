@@ -30,7 +30,7 @@
         }
     ],
     "notification_banner": {
-        "enabled": false,
-        "message": "Sehr geehrte Patienten, die Praxis in Höchstadt ist nächste Woche (KW 10) geschlossen. Die Sprechzeiten in Erlangen sind folgende: Mo 3.3. 7:30 Uhr bis 13 Uhr, Di 4.3. 7:30 Uhr bis 13 Uhr, Mi 5.3 7:30 Uhr bis 12 Uhr, Do 6.3. 7:30 Uhr bis 16.30 Uhr, Fr 7.3. 7:30 Uhr bis 12 Uhr."
+        "enabled": true,
+        "message": "Sehr geehrte Patienten: Test-Nachricht"
     }
 }
