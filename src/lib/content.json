@@ -29,8 +29,8 @@
             "answer": "So können Sie Ihren Termin absagen, wenn Sie ihn nicht wahrnehmen können: - Bei Online-Buchungen: Über den E-Mail Link aus Ihrer Terminbestätigung. - Per Telefon oder Fax bzw. auf dem Postweg."
         }
     ],
-    "notification_banner": {
-        "enabled": false,
-        "message": "Sehr geehrte Patienten, geänderte Sommer-Öffnungszeiten in Erlangen vom 04.08.25 bis 12.09.25: 07:30 Uhr - 13:00 Uhr. Die Sommer-Öffnungszeiten in Höchstadt: Vom 04.08.25 bis 08.08.25: 07:30 Uhr - 13:00 Uhr. Vom 11.08.25 bis 12.09.25 geschlossen. Während der Schließzeit in Höchstadt sind wir telefonisch in Erlangen für Patienten aus Höchstadt erreichbar."
-    }
+"notification_banner": {
+    "enabled": true,
+    "message": "Sehr geehrte Patienten, über die Weihnachtstage haben wir wie folgt für Sie geöffnet:\n\nHöchstadt: geschlossen vom 22.12.2025 - 06.01.2026\n\nErlangen:\nMo, 22.12.25 von 08:00-12:00 Uhr\nDie, 23.12.25 von 08:00-12:00 Uhr\nMo, 29.12.25 von 08:00-11:00 Uhr\n\nvom 30.12.2025 - 06.01.2026 ist auch die Praxis in Erlangen geschlossen."
+}
 }
