@@ -30,7 +30,7 @@
         }
     ],
 "notification_banner": {
-    "enabled": false,
-    "message": "Sehr geehrte Patienten, im neuen Jahr gelten folgende Öffnungszeiten:\n\nHöchstadt: geschlossen vom 22.12.2025 - 06.01.2026\nErlangen: vom 30.12.2025 - 06.01.2026 ist die Erlanger Praxis geschlossen."
+    "enabled": true,
+    "message": "Sehr geehrte Patientinnen und Patienten, am Dienstag den 31.03.2026 ist die Praxis am Standort Erlangen und in Höchstadt an der Aisch aufgrund der Quartalsabrechnung von 8:00-11:00 Uhr geöffnet. Von 07.04.2026-10.04.2026 ist der Standort in Höchstadt an der Aisch geschlossen. Bitte wenden Sie sich in dieser Zeit mit ihren Anliegen an den Standort in Erlangen. Vielen Dank. Ihr Praxisteam"
 }
 }
