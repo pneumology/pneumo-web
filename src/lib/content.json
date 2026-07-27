@@ -29,8 +29,14 @@
             "answer": "So können Sie Ihren Termin absagen, wenn Sie ihn nicht wahrnehmen können: - Bei Online-Buchungen: Über den E-Mail Link aus Ihrer Terminbestätigung. - Per Telefon oder Fax bzw. auf dem Postweg."
         }
     ],
-"notification_banner": {
-    "enabled": false,
-    "message": "Sehr geehrte Patientinnen und Patienten, am Dienstag den 31.03.2026 ist die Praxis am Standort Erlangen und in Höchstadt an der Aisch aufgrund der Quartalsabrechnung von 8:00-11:00 Uhr geöffnet. Von 07.04.2026-10.04.2026 ist der Standort in Höchstadt an der Aisch geschlossen. Bitte wenden Sie sich in dieser Zeit mit ihren Anliegen an den Standort in Erlangen. Vielen Dank. Ihr Praxisteam"
-}
+    "notification_banner": {
+        "enabled": true,
+        "message": [
+            "Sehr geehrte Patienten, von 03.08.2026-11.09.2026 ist die Praxis am Standort in Erlangen von 7.30-13.00 Uhr geöffnet. Am Montag den 14.09.2026 ist die Praxis am Standort Erlangen geschlossen.",
+            "Ab Dienstag den 15.09.2026 sind wir wieder zu den gewohnten Sprechzeiten für sie erreichbar.",
+            "Die Praxis am Standort Höchstadt ist von 03.08.2026-14.08.2026 und von 07.09.2026-11.09.2026 von 07.30 Uhr - 13.00 Uhr geöffnet. Von 17.08.2026-04.09.2026 und am Dienstag den 15.09.2026 ist der Standort in Höchstadt an der Aisch geschlossen.",
+            "Bitte wenden sie sich in dieser Zeit mit Rückfragen jeglicher Art an den Standort in Erlangen.",
+            "Ihr Praxisteam."
+        ]
+    }
 }
