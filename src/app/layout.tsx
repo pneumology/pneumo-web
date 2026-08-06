@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "./navbar";
 import { GeistSans } from "geist/font/sans";
 import Head from "next/head";
+import CookieBanner from "@/components/cookieBanner";
 
 /*
 <meta property="og:title" content="Lungenarzt Erlangen & Höchstadt" />
@@ -62,6 +63,7 @@ export default function RootLayout({
             <body className={GeistSans.className}>
                 <Navbar />
                 {children}
+                <CookieBanner />
             </body>
         </html>
     );

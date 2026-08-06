@@ -69,6 +69,10 @@ const Impressum = () => {
                 <p>Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Ebenfalls wird keine Haftung für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen übernommen.</p>
                 <br />
                 <p>Alle auf dieser Website veröffentlichten Beiträge und Abbildungen sind urheberrechtlich geschützt. Jede vom Urheberrechtsgesetz nicht zugelassene Verwertung bedarf vorheriger schriftlicher Zustimmung. Dies gilt insbesondere für Vervielfältigung, Bearbeitung, Übersetzung, Einspeicherung, Verarbeitung bzw. Wiedergabe von Inhalten in Datenbanken oder anderen elektronischen Medien und Systemen.</p>
+                <br />
+                <h2 className="font-medium">Streitbeilegungsverfahren</h2>
+                <p>Die Praxis ist nicht zum Streitbeilegungsverfahren verpflichtet und nimmt nicht daran teil.</p>
+                <br />
             </div>
         </div>
         <Footer mini />
