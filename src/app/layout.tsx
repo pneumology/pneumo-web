@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         description:
             "Lungenfachärztliche Praxis für Lungen- bzw. Atemwegserkrankungen, schlafbezogene Atmungsstörungen und Allergologie in Erlangen und Höchstadt.",
         type: "website",
-        url: "https://lungenarzt-eralngen.com",
+        url: "https://lungenarzt-erlangen.com",
         images: "https://pneumologie-erlangen.de/tcard.webp",
     },
 };
